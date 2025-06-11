@@ -1,8 +1,10 @@
 # Final-Project-Individual Functioning Prototype
-**Github Repo**
+**Github Repo** 
 
 For our group project, I decided to include mouse ripple effect as one of our animations.
 After the page loads, simply move your mouse anywhere over the canvas and click once to create a set of three expanding concentric ripples. Each click instantly spawns rings that grow outward at a steady pace while their opacity fades until they disappear beyond the edges. There’s no play button or delay, each click triggers the animation in real time, and you can tap repeatedly to layer multiple ripples for a lively, interactive effect.
+
+In the meantime, Danni has taken up the animation of Audio related section and Yaqi is in charge of the Perlin Noise. Danni's part is cohesive as her segments all act simultaneously thorugh the audio sounds; Yaqi's work combines rotation, rhythm, color change together and creates an automated animation.
 
 ## 1. Animated Properties & Unique Features
 **How to Interact**
